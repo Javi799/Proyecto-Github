@@ -9,7 +9,7 @@ public class RestaBinaria
 	public static void main(String[] args)
 	{
 		int numero;
-		int numero2;
+		int numero=;
 		
 		Scanner entrada=null;
 		

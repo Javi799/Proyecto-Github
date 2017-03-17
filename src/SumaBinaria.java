@@ -29,7 +29,7 @@ public class SumaBinaria
 	public SumaBinaria()
 	{
 		this.numero=0;
-		this.numero2=0;
+		this.numero2=1;
 	}
 	
 	public SumaBinaria(int numero , int numero2)
