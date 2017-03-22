@@ -20,6 +20,8 @@ public class RestaBinaria
 		System.out.println(" Introduzca numero2 ");
 		numero2=entrada.nextInt();
 		
+		System.out.println("Se han acabado de introducir datos");
+		
 		RestaBinaria resta=null;
 		
 	    resta = new RestaBinaria(numero,numero2);
