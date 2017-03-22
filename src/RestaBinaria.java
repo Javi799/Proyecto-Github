@@ -24,6 +24,8 @@ public class RestaBinaria
 		
 	    resta = new RestaBinaria(numero,numero2);
 	    
+	    System.out.println("A continiacion se muestra el resultado");
+	    
 	    System.out.println(" El resultado es: "+resta.resultado());
 	}
 	
