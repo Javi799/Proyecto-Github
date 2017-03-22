@@ -2,7 +2,11 @@ import java.util.Scanner;
 import java.util.ArrayList;
 public class RestaBinaria 
 {
+<<<<<<< HEAD
 	int numero=50;
+=======
+	int numero=100;
+>>>>>>> refs/heads/Javi
 	int numero2;
 	
 	@SuppressWarnings("resource")
@@ -19,6 +23,8 @@ public class RestaBinaria
 		numero=entrada.nextInt();
 		System.out.println(" Introduzca numero2 ");
 		numero2=entrada.nextInt();
+		
+		System.out.println("Se han acabado de introducir datos");
 		
 		RestaBinaria resta=null;
 		
