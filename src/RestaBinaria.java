@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 public class RestaBinaria 
 {
-	int numero=20;
+	int numero=40;
 	int numero2;
 	
 	@SuppressWarnings("resource")
