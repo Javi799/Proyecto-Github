@@ -2,13 +2,13 @@ import java.util.Scanner;
 import java.util.ArrayList;
 public class RestaBinaria 
 {
-	int numero;
+	int numero=20;
 	int numero2;
 	
 	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
-		int numero;
+		int numero2=10;
 		int numero=5;
 		
 		Scanner entrada=null;
